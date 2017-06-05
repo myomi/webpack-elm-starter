@@ -1,0 +1,19 @@
+{
+  "name": "webpack-elm-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/myomi/webpack-elm-starter",
+  "author": "myomi <myomit@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "elm": "^0.18.0",
+    "elm-webpack-loader": "^4.3.1",
+    "file-loader": "^0.11.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}

@@ -4,7 +4,7 @@
     "repository": "https://github.com/myomi/webpack-elm-starter.git",
     "license": "MIT",
     "source-directories": [
-        "."
+        "./src/elm"
     ],
     "exposed-modules": [],
     "dependencies": {
